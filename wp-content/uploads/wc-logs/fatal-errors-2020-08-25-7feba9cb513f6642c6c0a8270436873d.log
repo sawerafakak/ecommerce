@@ -1,0 +1,28 @@
+2020-08-25T18:32:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Site\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\ShippingLabelBanner.php on line 182
+
+2020-08-25T18:33:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Site\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AllReviews.php on line 10
+
+2020-08-25T18:33:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Site\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AllReviews.php on line 10
+
+2020-08-25T18:33:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Site\wp-includes\class-wp-hook.php on line 286
+
+2020-08-25T18:33:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Site\wp-content\themes\Divi\includes\builder\module\BarCounters.php on line 245
+
+2020-08-25T18:33:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Site\wp-includes\wp-db.php on line 2024
+
+2020-08-25T18:33:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Site\wp-admin\includes\class-custom-background.php on line 617
+
+2020-08-25T18:34:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Site\wp-content\plugins\woocommerce\includes\customizer\class-wc-customizer-control-cropping.php on line 11
+
+2020-08-25T18:34:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Site\wp-admin\includes\admin.php on line 10
+
+2020-08-25T18:34:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Site\wp-admin\includes\template.php on line 12
+
+2020-08-25T18:34:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Site\wp-admin\includes\template.php on line 12
+
+2020-08-25T21:03:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Site\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-08-25T22:15:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Site\wp-includes\pluggable.php on line 1315
+
+2020-08-25T22:16:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Site\wp-content\plugins\woocommerce\packages\woocommerce-rest-api\src\Controllers\Version3\class-wc-rest-product-attributes-controller.php on line 28
+
